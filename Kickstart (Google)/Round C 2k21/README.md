@@ -1,6 +1,6 @@
 Alien Generator:
 Logic- We know, G= K + K+1 + K+2 ....... N1, so we can split this sum as follows,
-S1 = sum of natural numbers till n2 (n2= K-1)
+S1 = sum of natural numbers till n2 (n2= K-1) <br>
 S2 = sum of natural numbers till n1
 so we get S2-S1 = G
 on putting values of S1 and S2 it can be simplified as follows:
